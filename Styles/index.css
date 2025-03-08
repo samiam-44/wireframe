@@ -1,0 +1,25 @@
+/* astrix grabs all and changes it (*)*/
+nav{
+  border: 3px ridge #85483600;
+  background-color: black;
+  color: #F7F7F7;
+  
+}
+a{
+  margin-left: auto;
+}
+nav li{
+  display: inline-block;
+  color: #F7F7F7;
+  text-decoration: none;
+  padding: .5em;
+  border-radius: 5%;
+  height: 20px;
+  text-align: center;
+
+}
+li:hover {
+  background-color: #FFB22C;
+  font-size: 18px;}
+  
+  
