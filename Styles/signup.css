@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+#Home{
+    color: #fff2db;
+    text-decoration: none;
+}
+div{
+    border: 2px solid black;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+}
+#inoutlink{
+    display: inline;
+   
+}
+a{
+    margin-right: 10px;
+    color: #FFB22C;
+ 
+}
+#signin{
+    color: #fff2db;
+    text-decoration: none;
+    
+}
+#signup{
+    font-size: 24px;
+    text-decoration: none;
+}
+input{
+    display: block;
+    text-align: center;
+    margin:auto;
+    margin-bottom: 2rem;
+    width: 45%;
+    padding: 1%;
+}
+#submit{
+    width: 35%;
+    color: #854836;
+}
