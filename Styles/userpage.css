@@ -20,12 +20,37 @@ ul {
     padding: 15px;
 }
 
-.section1 {
-    column-gap: 4px
-    border: 2px solid black;
+#section1 {
+border: 2px solid black;
+display: flex;
+display: inline-block;
+text-align: center;
+text-decoration: none;
+
+
+}
+#accountlinks {
+    text-decoration: none;
+    color: black;
+    padding: 2%;
+    border-radius: 10px;
+
+}
+#accountlinks:hover{
+    background-color: burlywood;
+    font-size: 18px;
+}
+.carouselslide {
+   
+    
 }
 
-#accountlinks {
-   background: orange;
-   
+.c-item {
+    height: 200px;
+
+}
+
+.c-img {
+height: 25%;
+object-fit: contain;
 }
